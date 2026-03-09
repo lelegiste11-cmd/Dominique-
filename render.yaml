@@ -21,7 +21,7 @@ services:
         value: -1002682552255
       - key: PREDICTION_CHANNEL_ID
         value: -1003746077228
-      - key: TELEGRAM_SESSION
-        sync: false
       - key: PREDICTION_OFFSET
         value: 2
+      - key: TELEGRAM_SESSION
+        sync: false
